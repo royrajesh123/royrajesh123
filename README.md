@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=royrajesh123&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yroyrajesh123&layout=compact&theme=tokyonight)
-
----
-
 ## 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,python,fastapi,postgres,git)](https://skillicons.dev)
